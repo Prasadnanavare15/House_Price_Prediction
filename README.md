@@ -1,1 +1,1 @@
-# House_Price_Prediction
+House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. This project aims to analyse various parameters like median income, house area details, population etc. and predict the house price accordingly.
